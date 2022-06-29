@@ -19,3 +19,7 @@ e = 5
 r = 7
 t= e * r
 print(t)
+
+#change 5
+
+print(t+p)
