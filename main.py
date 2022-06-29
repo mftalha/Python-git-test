@@ -18,4 +18,12 @@ print(p)
 e = 5
 r = 7
 t= e * r
+<<<<<<< HEAD
 print(t)
+=======
+print(t)
+
+#change 5
+
+print(t+p)
+>>>>>>> 91b6bbb5dae139829d6a2bb6a743c2b310798031
